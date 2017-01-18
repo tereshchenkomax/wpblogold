@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Admin Panel"
+AuthUserFile /virt/homes/tereshchenkomax/htdocs/admin/.htpasswd
+Require valid-user
